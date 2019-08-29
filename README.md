@@ -94,6 +94,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
 ### Choosing specialization
 A character specialization is the reason why they have been selected as a candidate and is their unique expertise that they bring to the expedition. This can be used to give advantage on skill checks but could also enable actions that would require a dedicated team and more time to do. A player may roll for a random specialization or choose freely. 
 
+| 1-2 | 3-4 | 5-6 | 7-8 |
 | --- | --- | --- | --- |
 | 1. Systems analyst | 3. X | 5. X | 7. X |
 | 2. Chemist | 4. X | 6. X | 8. X |
