@@ -18,7 +18,7 @@ There are 5 stats that are used to describe the overall strength and weakness of
 
 Every stat can have a value of 1-5. When a skill check is done, you will roll a 1d6 against your stat and will have to roll equal or lower than your stat value. (Stat of 3 -> 1, 2, 3 = success). This means that rolling a value of 6 is always a failed dice. When you have advantage, you roll and extra dice and choose the lowest. If you have disadvantage you roll an extra dice and choose the highest.
 
-To determine your stats you go through all of them one by one and roll d20 two times. For each dice, a value of 1-5 gives you a -1 stat trait, 6-15 a 0 stat trait, 16-20 a +1 stat trait. Summarize all traits for each stat and add their sum to 3 which is the base value of every stat.
+To determine your stats you go through all of them one by one and roll d20 two times. For each dice, a value of 1-5 gives you a -1 stat trait, 6-15 a 0 stat trait, 16-20 a +1 stat trait. Summarize all traits for each stat and add their sum to 3 which is the base value of every stat. A stat can ONLY be between 1-5, regardless if the sum of the traits exceeds that range.
 
 *Example:*
 
