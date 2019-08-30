@@ -49,7 +49,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>Value</th>
-      <th>(Effect)</th>
+      <th>Stat effect</th>
       <th>A</th>
       <th>B</th>
       <th>A</th>
@@ -65,7 +65,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
   <tbody>
     <tr>
       <th>1</th>    
-      <th>(negative)</th>    
+      <th>-1</th>    
       <th>E.1A</th>    
       <th>E.1B</th>    
       <th>S.1A</th>    
@@ -79,7 +79,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>2</th>    
-      <th>(negative)</th>    
+      <th>-1</th>    
       <th>E.2A</th>    
       <th>E.2B</th>    
       <th>Scaredy cat</th>    
@@ -93,7 +93,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>3</th>    
-      <th>(negative)</th>    
+      <th>-1</th>    
       <th>E.3A</th>    
       <th>E.3B</th>    
       <th>S.3A</th>    
@@ -107,7 +107,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>4</th>    
-      <th>(negative)</th>    
+      <th>-1</th>    
       <th>E.4A</th>    
       <th>E.4B</th>    
       <th>S.4A</th>    
@@ -121,7 +121,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>5</th>    
-      <th>(negative)</th>    
+      <th>-1</th>    
       <th>E.5A</th>    
       <th>E.5B</th>    
       <th>S.5A</th>    
@@ -135,7 +135,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>6</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.6A</th>    
       <th>E.6B</th>    
       <th>S.6A</th>    
@@ -149,7 +149,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>7</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.7A</th>    
       <th>E.7B</th>    
       <th>S.7A</th>    
@@ -163,7 +163,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>8</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.8A</th>    
       <th>E.8B</th>    
       <th>S.8A</th>    
@@ -177,7 +177,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>9</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.9A</th>    
       <th>E.9B</th>    
       <th>S.9A</th>    
@@ -191,7 +191,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>10</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.10A</th>    
       <th>E.10B</th>    
       <th>S.10A</th>    
@@ -205,7 +205,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>11</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.11A</th>    
       <th>E.11B</th>    
       <th>S.11A</th>    
@@ -219,7 +219,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>12</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.12A</th>    
       <th>E.12B</th>    
       <th>S.12A</th>    
@@ -233,7 +233,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>13</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.13A</th>    
       <th>E.13B</th>    
       <th>S.13A</th>    
@@ -247,7 +247,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>14</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.14A</th>    
       <th>E.14B</th>    
       <th>S.14A</th>    
@@ -261,7 +261,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>15</th>    
-      <th>(neutral)</th>    
+      <th>0</th>    
       <th>E.15A</th>    
       <th>E.15B</th>    
       <th>S.15A</th>    
@@ -275,7 +275,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>16</th>    
-      <th>(positive)</th>    
+      <th>+1</th>    
       <th>E.16A</th>    
       <th>E.16B</th>    
       <th>S.16A</th>    
@@ -289,7 +289,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>17</th>    
-      <th>(positive)</th>    
+      <th>+1</th>    
       <th>E.17A</th>    
       <th>E.17B</th>    
       <th>Yoga instructor</th>    
@@ -303,7 +303,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>18</th>    
-      <th>(positive)</th>    
+      <th>+1</th>    
       <th>E.18A</th>    
       <th>E.18B</th>    
       <th>S.18A</th>    
@@ -317,7 +317,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>19</th>    
-      <th>(positive)</th>    
+      <th>+1</th>    
       <th>E.19A</th>    
       <th>E.19B</th>    
       <th>S.19A</th>    
@@ -331,7 +331,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     </tr>
     <tr>
       <th>20</th>    
-      <th>(positive)</th>    
+      <th>+1</th>    
       <th>E.20A</th>    
       <th>E.20B</th>    
       <th>S.20A</th>    
