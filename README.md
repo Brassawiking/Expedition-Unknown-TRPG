@@ -357,10 +357,47 @@ A character specialization is the reason why they have been selected as a candid
 | 2. Chemist | 4. X | 6. X | 8. X |
 
 ### Clearance
-TODO
+A characters clearance indicates how valuable and trusted they are for the success of the expedition. Higher clearance gives higher authority and will help you set your own agenda. A character starts at level E and may be promoted and demoted throughout the game. Any given clearance also have all the authority given from the lower levels. Everyone in the expedition has a clearance assigned to them and chain of command applies, meaning a clearance can order lower clearance, but can not order equal or higher clearance. All military are of clearance D or higher, but can be demoted to lower clearance.
 
-### Status
-TODO
+| Level | Authority | Escorts
+| --- | --- | --- |
+| S | Supreme commander of the expedition. There is only one of this rank at any given time. Complete single authority over the entire expedition. | - |
+| A | Full access to all classified information. In charge of the expedition together with the commander and other A's. | - |
+| B | Access to most classified information. Can order promotions/demotions up to same clearance and new outposts to be established. | - |
+| C | Access to some classified information. Can see expedition inventory list and may request from it. | - |
+| D | May move around freely within all areas | 3 soldiers, 1 assistant with 2 soldiers  |
+| E | May move around freely within secured areas. Can join exploration of unsecured areas as an assistant to another team. | 2 soldiers |
+| F | Stationed on a base or an outpost and can not leave. No authority at all. | No escort |
+
 
 ### Assigned escort
-TODO
+A character can have escorts assigned to them in form of military and civilians. An assigned escort has a clearance and a specialization. The number of military and civilians escorts is determined by the characters clearance.
+
+### Statuses
+Compared to traits, statuses are temporary effects that impacts the characters. See following table for list of statuses.
+
+| Status | Effect | Duration |
+| --- | --- | --- |
+| Demoralized | All skill checks adds +1 to dice results | - |
+| Panic | Character will only think about getting to safety | - |
+| Paralyzed | Character freezes up and needs to be guided or ordered | - |
+| Incapacitated | Cannot perform any actions at all | - |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
