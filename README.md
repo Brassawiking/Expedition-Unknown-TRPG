@@ -10,11 +10,11 @@ For this rule guide, a contemperary sci-fi setting will be used as basis, but it
 ### Stats
 There are 5 stats that are used to describe the overall strength and weakness of a character:
 
-- Expertise _(How well you can exert your expertise, lower means greater risk of mistakes)_
-- Stress _(How well you can work under pressure and extreme situations)_
-- Able _(How well you can handle yourself, lower means higher reliance on others)_
-- Social _(How well you interact with others, higher means better chance of giving orders, etc)_
-- Motivation _(How motivated you are at being on the expedition)_
+- Expertise (Ex) - _How well you can exert your expertise, lower means greater risk of mistakes_
+- Stress (St) - _How well you can work under pressure and extreme situations_
+- Able (Ab) - _How well you can handle yourself, lower means higher reliance on others_
+- Social (So) - _How well you interact with others, higher means better chance of giving orders, etc_
+- Motivation (Mo) - _How motivated you are at being on the expedition_
 
 Every stat can have a value of 1-5. When a skill check is done, you will roll a 1d6 against your stat and will have to roll equal or lower than your stat value. (Stat of 3 -> 1, 2, 3 = success). This means that rolling a value of 6 is always a failed dice. When you have advantage, you roll and extra dice and choose the lowest. If you have disadvantage you roll an extra dice and choose the highest.
 
@@ -38,6 +38,7 @@ _DISCLAIMER_
 
 Assigning a trait as a negative stat reducing trait may be perceived as a judgement of real people having this trait in real life. The traits are only intended to give your character a fast backstory and description and also given them an extra gameplay dynamic. It is by no means a statement against anyone to be perceived as lesser. So if you do not accept how a predetermined trait table has been setup, feel free to change around however you like, swap or replace any traits you disagree with or are uncomfortable with.
 
+_WORK IN PROGRESS, NOT FINAL_
 
 <table>
   <thead>
@@ -68,72 +69,72 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
     <tr>
       <th>1</th>    
       <th>-1</th>    
-      <th>E.1A</th>    
-      <th>E.1B</th>    
-      <th>S.1A</th>    
-      <th>S.1B</th>    
-      <th>O.1A</th>    
-      <th>O.1B</th>    
-      <th>A.1A</th>    
-      <th>A.1B</th>    
-      <th>M.1A</th>    
-      <th>M.1B</th>    
+      <th>Scatter brain</th>    
+      <th>Impaired memory</th>    
+      <th>Panic attacks</th>    
+      <th>Burned out</th>    
+      <th>Old age</th>    
+      <th>Addiction</th>    
+      <th>Lone wolf</th>    
+      <th>Highly arrogant</th>    
+      <th>Forced to join</th>    
+      <th>Terminally ill family</th>    
     </tr>
     <tr>
       <th>2</th>    
       <th>-1</th>    
-      <th>E.2A</th>    
-      <th>E.2B</th>    
+      <th>Very sloppy</th>    
+      <th>Short attention span</th>    
       <th>Scaredy cat</th>    
-      <th>S.2B</th>    
-      <th>O.2A</th>    
-      <th>O.2B</th>    
-      <th>A.2A</th>    
-      <th>A.2B</th>    
-      <th>M.2A</th>    
-      <th>M.2B</th>    
+      <th>Traumatic experience</th>    
+      <th>Sickness</th>    
+      <th>Wheelchair</th>    
+      <th>Racist</th>    
+      <th>Sexist</th>    
+      <th>Removed from personal work</th>    
+      <th>Thinks expedition is fatal</th>    
     </tr>
     <tr>
       <th>3</th>    
       <th>-1</th>    
-      <th>E.3A</th>    
-      <th>E.3B</th>    
-      <th>S.3A</th>    
-      <th>S.3B</th>    
-      <th>O.3A</th>    
-      <th>O.3B</th>    
-      <th>A.3A</th>    
-      <th>A.3B</th>    
-      <th>M.3A</th>    
-      <th>M.3B</th>    
+      <th>Guessing a lot</th>    
+      <th>Shady merits</th>    
+      <th>Pessimitic</th>    
+      <th>Nervous</th>    
+      <th>Blind</th>    
+      <th>Deaf</th>    
+      <th>Narcissist</th>    
+      <th>Cruel</th>    
+      <th>Depressed</th>    
+      <th>Do not trust goverment</th>    
     </tr>
     <tr>
       <th>4</th>    
       <th>-1</th>    
-      <th>E.4A</th>    
-      <th>E.4B</th>    
-      <th>S.4A</th>    
-      <th>S.4B</th>    
-      <th>O.4A</th>    
-      <th>O.4B</th>    
-      <th>A.4A</th>    
-      <th>A.4B</th>    
-      <th>M.4A</th>    
-      <th>M.4B</th>    
+      <th>Impulsive</th>    
+      <th>Careless</th>    
+      <th>Caves under pressure</th>    
+      <th>Fight or flight</th>    
+      <th>Obese</th>    
+      <th>Missing limb</th>    
+      <th>Bad temper</th>    
+      <th>Dishonest</th>    
+      <th>Not rewarding enough</th>    
+      <th>Have done enough service</th>    
     </tr>
     <tr>
       <th>5</th>    
       <th>-1</th>    
-      <th>E.5A</th>    
-      <th>E.5B</th>    
-      <th>S.5A</th>    
-      <th>S.5B</th>    
-      <th>O.5A</th>    
-      <th>O.5B</th>    
-      <th>A.5A</th>    
-      <th>A.5B</th>    
-      <th>M.5A</th>    
-      <th>M.5B</th>    
+      <th>Lack of experience</th>    
+      <th>Idea fixation</th>    
+      <th>Breakdowns</th>    
+      <th>Tremors</th>    
+      <th>Very clumsy</th>    
+      <th>Poor physical form</th>    
+      <th>Nasty</th>    
+      <th>Rude</th>    
+      <th>Complete disinterest</th>    
+      <th>Bad previous expeditions</th>    
     </tr>
     <tr>
       <th>6</th>    
@@ -142,9 +143,9 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
       <th>E.6B</th>    
       <th>S.6A</th>    
       <th>S.6B</th>    
-      <th>O.6A</th>    
+      <th>Old injury</th>    
       <th>O.6B</th>    
-      <th>A.6A</th>    
+      <th>Poker face</th>    
       <th>A.6B</th>    
       <th>M.6A</th>    
       <th>M.6B</th>    
@@ -340,7 +341,7 @@ Assigning a trait as a negative stat reducing trait may be perceived as a judgem
       <th>S.20B</th>    
       <th>O.20A</th>    
       <th>O.20B</th>    
-      <th>A.20A</th>    
+      <th>Persuasive</th>    
       <th>A.20B</th>    
       <th>M.20A</th>    
       <th>M.20B</th>    
