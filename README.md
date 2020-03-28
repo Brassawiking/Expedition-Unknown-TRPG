@@ -139,16 +139,16 @@ _WORK IN PROGRESS, NOT FINAL_
     <tr>
       <th>6</th>    
       <th>0</th>    
-      <th>E.6A</th>    
-      <th>E.6B</th>    
-      <th>S.6A</th>    
-      <th>S.6B</th>    
+      <th>Meticulous</th>    
+      <th>Broad knowledge</th>    
+      <th>Meditates</th>    
+      <th>Finger taps</th>    
       <th>Old injury</th>    
-      <th>O.6B</th>    
+      <th>Surfer</th>    
       <th>Poker face</th>    
-      <th>A.6B</th>    
-      <th>M.6A</th>    
-      <th>M.6B</th>    
+      <th>Small talker</th>    
+      <th>Career climbing</th>    
+      <th>Hefty payment</th>    
     </tr>
     <tr>
       <th>7</th>    
@@ -157,10 +157,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.7B</th>    
       <th>S.7A</th>    
       <th>S.7B</th>    
-      <th>O.7A</th>    
-      <th>O.7B</th>    
       <th>A.7A</th>    
       <th>A.7B</th>    
+      <th>O.7A</th>    
+      <th>O.7B</th>    
       <th>M.7A</th>    
       <th>M.7B</th>    
     </tr>
@@ -171,10 +171,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.8B</th>    
       <th>S.8A</th>    
       <th>S.8B</th>    
-      <th>O.8A</th>    
-      <th>O.8B</th>    
       <th>A.8A</th>    
       <th>A.8B</th>    
+      <th>O.8A</th>    
+      <th>O.8B</th>    
       <th>M.8A</th>    
       <th>M.8B</th>    
     </tr>
@@ -185,10 +185,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.9B</th>    
       <th>S.9A</th>    
       <th>S.9B</th>    
-      <th>O.9A</th>    
-      <th>O.9B</th>    
       <th>A.9A</th>    
       <th>A.9B</th>    
+      <th>O.9A</th>    
+      <th>O.9B</th>    
       <th>M.9A</th>    
       <th>M.9B</th>    
     </tr>
@@ -199,10 +199,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.10B</th>    
       <th>S.10A</th>    
       <th>S.10B</th>    
-      <th>O.10A</th>    
-      <th>O.10B</th>    
       <th>A.10A</th>    
       <th>A.10B</th>    
+      <th>O.10A</th>    
+      <th>O.10B</th>    
       <th>M.10A</th>    
       <th>M.10B</th>    
     </tr>
@@ -213,10 +213,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.11B</th>    
       <th>S.11A</th>    
       <th>S.11B</th>    
-      <th>O.11A</th>    
-      <th>O.11B</th>    
       <th>A.11A</th>    
       <th>A.11B</th>    
+      <th>O.11A</th>    
+      <th>O.11B</th>    
       <th>M.11A</th>    
       <th>M.11B</th>    
     </tr>
@@ -227,10 +227,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.12B</th>    
       <th>S.12A</th>    
       <th>S.12B</th>    
-      <th>O.12A</th>    
-      <th>O.12B</th>    
       <th>A.12A</th>    
       <th>A.12B</th>    
+      <th>O.12A</th>    
+      <th>O.12B</th>    
       <th>M.12A</th>    
       <th>M.12B</th>    
     </tr>
@@ -241,10 +241,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.13B</th>    
       <th>S.13A</th>    
       <th>S.13B</th>    
-      <th>O.13A</th>    
-      <th>O.13B</th>    
       <th>A.13A</th>    
       <th>A.13B</th>    
+      <th>O.13A</th>    
+      <th>O.13B</th>    
       <th>M.13A</th>    
       <th>M.13B</th>    
     </tr>
@@ -255,10 +255,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.14B</th>    
       <th>S.14A</th>    
       <th>S.14B</th>    
-      <th>O.14A</th>    
-      <th>O.14B</th>    
       <th>A.14A</th>    
       <th>A.14B</th>    
+      <th>O.14A</th>    
+      <th>O.14B</th>    
       <th>M.14A</th>    
       <th>M.14B</th>    
     </tr>
@@ -269,10 +269,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.15B</th>    
       <th>S.15A</th>    
       <th>S.15B</th>    
-      <th>O.15A</th>    
-      <th>O.15B</th>    
       <th>A.15A</th>    
       <th>A.15B</th>    
+      <th>O.15A</th>    
+      <th>O.15B</th>    
       <th>M.15A</th>    
       <th>M.15B</th>    
     </tr>
@@ -283,10 +283,10 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.16B</th>    
       <th>S.16A</th>    
       <th>S.16B</th>    
-      <th>O.16A</th>    
-      <th>O.16B</th>    
       <th>A.16A</th>    
       <th>A.16B</th>    
+      <th>O.16A</th>    
+      <th>O.16B</th>    
       <th>M.16A</th>    
       <th>M.16B</th>    
     </tr>
@@ -297,54 +297,54 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>E.17B</th>    
       <th>Yoga instructor</th>    
       <th>S.17B</th>    
-      <th>O.17A</th>    
-      <th>O.17B</th>    
       <th>A.17A</th>    
       <th>A.17B</th>    
+      <th>O.17A</th>    
+      <th>O.17B</th>    
       <th>M.17A</th>    
       <th>M.17B</th>    
     </tr>
     <tr>
       <th>18</th>    
       <th>+1</th>    
-      <th>E.18A</th>    
-      <th>E.18B</th>    
+      <th>High performance job</th>    
+      <th>Jack of all trades</th>    
       <th>S.18A</th>    
       <th>S.18B</th>    
-      <th>O.18A</th>    
-      <th>O.18B</th>    
       <th>A.18A</th>    
       <th>A.18B</th>    
+      <th>O.18A</th>    
+      <th>O.18B</th>    
       <th>M.18A</th>    
       <th>M.18B</th>    
     </tr>
     <tr>
       <th>19</th>    
       <th>+1</th>    
-      <th>E.19A</th>    
-      <th>E.19B</th>    
-      <th>S.19A</th>    
-      <th>S.19B</th>    
-      <th>O.19A</th>    
-      <th>O.19B</th>    
-      <th>A.19A</th>    
-      <th>A.19B</th>    
-      <th>M.19A</th>    
-      <th>M.19B</th>    
+      <th>Outside-the-box thinking</th>    
+      <th>Highly efficient</th>    
+      <th>Dandelion kid</th>    
+      <th>War veteran</th>    
+      <th>Military trained</th>    
+      <th>Expedition experience</th>    
+      <th>World famous</th>    
+      <th>Charismatic</th>    
+      <th>Childhood dream</th>    
+      <th>Adventurous</th>    
     </tr>
     <tr>
       <th>20</th>    
       <th>+1</th>    
-      <th>E.20A</th>    
-      <th>E.20B</th>    
-      <th>S.20A</th>    
-      <th>S.20B</th>    
-      <th>O.20A</th>    
-      <th>O.20B</th>    
+      <th>Innovator</th>    
+      <th>Leading expert</th>    
+      <th>Tough psyche</th>    
+      <th>Disaster experience</th>    
+      <th>Mountaineer</th>    
+      <th>Olympic athlete</th>    
       <th>Persuasive</th>    
-      <th>A.20B</th>    
-      <th>M.20A</th>    
-      <th>M.20B</th>    
+      <th>Great rhetorician</th>    
+      <th>Saving humanity</th>    
+      <th>First to set foot</th>    
     </tr>
   </tbody>
 </table>
