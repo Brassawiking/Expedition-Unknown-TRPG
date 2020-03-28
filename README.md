@@ -14,7 +14,7 @@ There are 5 stats that are used to describe the overall strength and weakness of
 - Stress (St) - _How well you can work under pressure and extreme situations_
 - Able (Ab) - _How well you can handle yourself, lower means higher reliance on others_
 - Social (So) - _How well you interact with others, higher means better chance of giving orders, etc_
-- Motivation (Mo) - _How motivated you are at being on the expedition_
+- Motivation (Mo) - _How motivated you are at being on the expedition and how you perform over longer time spans_
 
 Every stat can have a value of 1-5. When a skill check is done, you will roll a 1d6 against your stat and will have to roll equal or lower than your stat value. (Stat of 3 -> 1, 2, 3 = success). This means that rolling a value of 6 is always a failed dice. When you have advantage, you roll and extra dice and choose the lowest. If you have disadvantage you roll an extra dice and choose the highest.
 
@@ -133,7 +133,7 @@ _WORK IN PROGRESS, NOT FINAL_
       <th>Poor physical form</th>    
       <th>Nasty</th>    
       <th>Rude</th>    
-      <th>Complete disinterest</th>    
+      <th>Expecting child</th>    
       <th>Bad previous expeditions</th>    
     </tr>
     <tr>
