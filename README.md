@@ -372,7 +372,7 @@ A characters clearance indicates how valuable and trusted they are for the succe
 
 
 ### Assigned escort
-A character can have escorts assigned to them in form of military and civilians. An assigned escort has a clearance and a specialization. The number of military and civilians escorts is determined by the characters clearance.
+A character can have escorts assigned to them in form of military and civilians. An assigned escort has a clearance and a specialization. The number of military and civilians escorts is determined by the characters clearance. The military will be very capable and diverse in their abilities. A military mechanic might know every nuts and bolts for a vehicle by heart, but you are the ones who DESIGNED every nuts and bolt of the vehicle! And that is why your expertise is needed, no one else can match you for it.
 
 ### Statuses
 Compared to traits, statuses are temporary effects that impacts the characters. See following table for list of statuses.
@@ -385,20 +385,47 @@ Compared to traits, statuses are temporary effects that impacts the characters. 
 | Incapacitated | Cannot perform any actions at all | - |
 
 
+# Expertise Challenges
+During the expedition, some actions will result in a stat check per GMs discretion. Some actions however till trigger a expertise challenge instead. The player will then be given a puzzle to solve. They may not share this puzzle unless other players are nearby to help out, or if the puzzle is transported to an outpost for deciphering. A player can only look at the actual puzzle if they are nearby it, if they drop it or leave it, they may no longer look at the puzzle. A player might find some interesting information will out in the field. The challenge is too complex to be solved on the spot, so the puzzle is collected into a computer and the group goes back to the main camp to research it further. However, the road back maybe is not so safe as expected on the way back...
+
+The puzzle can either be solved by the players or spend time researching it. While the players tries to attempt to solve it, they can get help from their own character. When getting help from the player character, the player rolls an expertise check. If the succeed, the will get a clue to the puzzle from GM. If they fail, the GM rolls a 1d6 in secrecy and will give a correct clue for 1-3 and a incorrect clue for 4-6. If the player suspects that they have gotten a wrong clue, they may double-check as action. The player then rolls a expertise check to see if they can spot any errors. If they succeed, any wrong clue or info given up to that point for the puzzle is revealed. A puzzle can only be double-checked 3 times a day by a player. Another player may have a go at it and double-check it 3 more times. The double-check will only reveal errors from clues given, it will never reveal any errors made by the players.
+
+If the players to decide to spend time researching it, a longer time will pass for the expedition but the puzzle will eventually be solved if they continue. The players may also decide stop researching and give it another try themselves. The GM will then give a number of clues equal to the number of days researched divided by how many days of research a single clue takes. The amount of research needed for a single clue will depend on how hard the challenge is and where the puzzle is being researched. The main camp has the biggest resources, if you can get them to make it their first priority...
+
+Sometimes when a challenge is triggered, the player with be under stressful conditions. It might be due to trying unlock a panel while on a very high ladder, or it can be during a critical situation. Before receiving the puzzle, the player rolls a stress check. If they fail, the GM does the same as when giving a failed roll for a clue. If however, the GM rolled a 6, the entire puzzle is false and the player will have to make a succesful double-check to get the real puzzle. 
+
+## Critical situation
+During the expedition, a critical situation can occur. During this, everything is played out turn based and in rounds, where each round represents a few seconds. Critical situations could for example be a battle or toxic gas breaking out. The assigned escorts will have their highest priority to contain and control the situation, and to ensure the safety of the people they are escorting. However, they are also told to listen to your commands and orders. Orders are only possible if you out rank a person. Commands are persuasion based, if you don't make it clear why you should go deeper into danger, they will not obey your request. 
+
+Depending on the current situation, ranks and relationships, the escorting soldiers may either cooperate with you or force you to comply. And if you do not see eye to eye on what is of the outmost importance, you may just have to break away on your own by force...
+
+When a critical situation is initiated, every player rolls a 1d6 for turn order (1 goes first, 6 goes last). If they roll the same, they may choose each round who goes in what order. The GM will also roll similar for any other things and events that will be present during the situation. For instance, it could be a monster attacking. Or it could be a gas pipe that is about to explode for build up pressure. A round is done when all present with initiative have done their turn. For example, the gas pipe has initative 4 and will explode if nothing is done on round 3. The players rolled 2, 3 and 5. On the third round, the two first players manage to do their turns, before pipe exploded. The third and last player (if able) does their turn after the explosion.
+
+Those with initatives on the GM side does not need to be shown to the players. So there can be a hidden event ticking away each round without them realizing unless they are observant...
+
+During a player turn they may take do any number of actions as long as the can be performed within the time window of a single round. The player might attempt to jump over an gap and at the same time throw an item over to another player. Checks are performed in order of the actions and any failed checks may prevent the remaining actions from being made. In the example above, the player fails to jump over the gap. GM then asks the player to do a stress check to see if they manage to keep focus. The player succeed in keeping their focus and rolls to see if they manage to throw the item to the other player before falling to their demise...
+
+Stress will be a high factor, and throughout the situation the players will have to do recurring stress checks to see how they handle the situation. When and where is for the GM to decide, anything that is normally easy to due might suddenly become almost impossible if the stress is too much...
+
+It is also important to keep the rounds going at a fairly brisk pace. This will simulate the real time danger for the players that needs to solve a puzzle. 
+
+### Losing control
+While escorted or within a protected group, the escorting soldiers will try to control the situation. They may however start to lose that control. When something happens that puts pressure, GM will roll a pressure check to see how the escorts handles the situation. You maybe walked into an ambush and are overruned by attackers or the fire has spread out massively in an outpost. A group is considered to be a close cluster of people, not just the player and its escorts. If all the player stand together, they count as a single group, if they are separated they will count as three different groups.
+
+The pressure check is a 1d6 rolled against the control value of the group, which is (the total number of soldiers) + 5 + (any control bonuses) - (pressure strength). If the roll is equal or lower than the control value, the pressure check is successful. A roll of 6 will always fail, but if the control value is higher than 5, then the consquence roll afterwards will have -3 to it. If the control value is lower than 1, it will be an automatic fail and the severity roll afterwards will have a +3 to it.
+
+When the pressure check fails, the GM rolls a 1d6 for severity of the consequence (1 for lowest, 6 for highest). Rolls of 1-3 can not affect the player while they are still being escorted. GM then decides a fitting consequence. Maybe a solider gets hit in the leg and can no longer move by themselves. Maybe the abandon the group and runs away to save someone trapped in the fire. Or maybe even you get knocked out or worse. A roll can ONLY be between 1 and 6, any lower or higher values will be rounded to nearest valid value.
+
+*Example:*
+
+A creature attacks a player with its three escorts. When the creature attacks, it will deal a pressure of 1. The control value is 1 + 5 - 3 = 7. The pressure check rolls a 6 which is an automatic fail. The GM rolls a 4 for severity and adds -3, due to control value is greater than 5. Final value for severity is then 1.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Roll 1d6 | Severity |
+| --- | --- |
+| 1 | Barely noticable |
+| 2 | Noticable but no immediate effect |
+| 3 | Immediate effect but resiliant |
+| 4 | (Can affect players) Hard-hitting immediate effect |
+| 5 | (Can affect players) Disastrous |
+| 6 | (Can affect players) Catastrophic |
