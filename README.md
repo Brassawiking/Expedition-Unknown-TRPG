@@ -16,7 +16,7 @@ There are 5 stats that are used to describe the overall strength and weakness of
 - Social (So) - _How well you interact with others, higher means better chance of giving orders, etc_
 - Motivation (Mo) - _How motivated you are at being on the expedition and how you perform over longer time spans_
 
-Every stat can have a value of 1-5. When a skill check is done, you will roll a 1d6 against your stat and will have to roll equal or lower than your stat value. (Stat of 3 -> 1, 2, 3 = success). This means that rolling a value of 6 is always a failed dice. When you have advantage, you roll and extra dice and choose the lowest. If you have disadvantage you roll an extra dice and choose the highest.
+Every stat can have a value of 1-5. When a skill check is done, you will roll a 1d6 against your stat and will have to roll equal or lower than your stat value. (Stat of 3 -> 1, 2, 3 = success). This means that rolling a value of 6 is always a failed dice. When you have advantage, you roll and extra dice and choose the lowest. If you have disadvantage you roll an extra dice and choose the highest. You may have multiple disadvantages and advantages at the same time. They are then summed together (1 - 3 = -2 = disadvantage) and becomes a single advantage/disadvantage or they all cancel each other out.
 
 To determine your stats you go through all of them one by one and roll d20 two times. For each dice, a value of 1-5 gives you a -1 stat trait, 6-15 a 0 stat trait, 16-20 a +1 stat trait. Summarize all traits for each stat and add their sum to 3 which is the base value of every stat. A stat can ONLY be between 1-5, regardless if the sum of the traits exceeds that range.
 
@@ -25,7 +25,7 @@ To determine your stats you go through all of them one by one and roll d20 two t
 - Stat = 3 (base) + 0 (first dice rolled 11) + -1 (second dice rolled 3) = 2
 
 ### Traits
-A trait is coupled directly to a certain stat. A negative trait (-1) is something that affects your character stat negatively in general, but may add advantage/disadvantage in certain situations. A neutral trait (0) will not affect the stat but may add advantage/disadvantage in certain situations. A positive trait (+1) affects the stat positivly in general but may add advantage/disadvantage in certain situaions.
+A trait is coupled directly to a certain stat. A negative trait (-1) is something that affects your character stat negatively in general, but may add advantage/disadvantage in certain situations. A neutral trait (0) will not affect the stat but may add advantage/disadvantage in certain situations. A positive trait (+1) affects the stat positivly in general but may add advantage/disadvantage in certain situaions. Traits can be gained and lost during the game, there is no maximum to the number of traits a player can have.
 
 *Example:*
 
@@ -374,6 +374,25 @@ A characters clearance indicates how valuable and trusted they are for the succe
 ### Assigned escort
 A character can have escorts assigned to them in form of military and civilians. An assigned escort has a clearance and a specialization. The number of military and civilians escorts is determined by the characters clearance. The military will be very capable and diverse in their abilities. A military mechanic might know every nuts and bolts for a vehicle by heart, but you are the ones who DESIGNED every nuts and bolt of the vehicle! And that is why your expertise is needed, no one else can match you for it.
 
+#### Commands and persuasion
+While orders can always be made when the player out ranks someone, commands are different and requires persuading the other person. They player has to make an argument and will then have to roll either a social check or an expertise check depending on which the argument is based on. The GM decides which stat check to be performed. Advantage and disadvantage is also up for the GM discretion to use. A strong solid argument in itself might yield an advantage, and a weak one might give a disadvantage. For example "We must do this, trust me!" could be a weak argument with disadvantage since the escorts have not gained any trust yet for the player. However, given that the GM sees this as a social check, and the player has a strong charismatic social trait, the GM gives that an advantage. The total advantage is -1 + +1 = 0, so the player makes a normal social check.
+
+#### Resolving actions made by escorts
+If GM thinks a check needs to be done by the escorts, same rules applies as for the players. An escorting solider will always have a disadvantage on expertise rolls, so if they need to do something that requires expertise, you better make sure they get all the help they can get.
+
+| Stat | Soldier | Assistant |
+| --- | --- | --- |
+| Expertise | 1 (with disadvantage) | 2 |
+| Able | 5 | 3 |
+| Stress | 5 | 2 |
+| Social | 3 | 3 |
+| Motivation | 4 | 3 |
+
+*Example:*
+
+You come to an collapsed tunnel and command your escorting soldiers to clear it out. If only one soldiers does it, the GM rolls an able check. If two soldiers does it, GM rolls an able check with advantage.
+
+
 ### Statuses
 Compared to traits, statuses are temporary effects that impacts the characters. See following table for list of statuses.
 
@@ -392,14 +411,16 @@ The puzzle can either be solved by the players or spend time researching it. Whi
 
 If the players to decide to spend time researching it, a longer time will pass for the expedition but the puzzle will eventually be solved if they continue. The players may also decide stop researching and give it another try themselves. The GM will then give a number of clues equal to the number of days researched divided by how many days of research a single clue takes. The amount of research needed for a single clue will depend on how hard the challenge is and where the puzzle is being researched. The main camp has the biggest resources, if you can get them to make it their first priority...
 
-Sometimes when a challenge is triggered, the player with be under stressful conditions. It might be due to trying unlock a panel while on a very high ladder, or it can be during a critical situation. Before receiving the puzzle, the player rolls a stress check. If they fail, the GM does the same as when giving a failed roll for a clue. If however, the GM rolled a 6, the entire puzzle is false and the player will have to make a succesful double-check to get the real puzzle. 
+Sometimes when a challenge is triggered, the player with be under stressful conditions. It might be due to trying unlock a panel while on a very high ladder, or it can be during a critical situation. Before receiving the puzzle, the player rolls a stress check. If they fail, the GM does the same as when giving a failed roll for a clue. If however, the GM rolled a 6, the entire puzzle is false and the player will have to make a succesful double-check to get the real puzzle.
+
+When a possible solution to the puzzle is found, the player can try to make a break-through. This action can take a different amount of time. If the player gets a break-trough with a door panel, it might just take a couple of seconds to perform. If they get a break-through for a analyzing the chemical compunds of a unknown toxic gas, then maybe it takes the whole day to get the results.
 
 ## Critical situation
 During the expedition, a critical situation can occur. During this, everything is played out turn based and in rounds, where each round represents a few seconds. Critical situations could for example be a battle or toxic gas breaking out. The assigned escorts will have their highest priority to contain and control the situation, and to ensure the safety of the people they are escorting. However, they are also told to listen to your commands and orders. Orders are only possible if you out rank a person. Commands are persuasion based, if you don't make it clear why you should go deeper into danger, they will not obey your request. 
 
 Depending on the current situation, ranks and relationships, the escorting soldiers may either cooperate with you or force you to comply. And if you do not see eye to eye on what is of the outmost importance, you may just have to break away on your own by force...
 
-When a critical situation is initiated, every player rolls a 1d6 for turn order (1 goes first, 6 goes last). If they roll the same, they may choose each round who goes in what order. The GM will also roll similar for any other things and events that will be present during the situation. For instance, it could be a monster attacking. Or it could be a gas pipe that is about to explode from built up pressure. A round is done when all present with initiative have done their turn. For example, the gas pipe has initative 4 and will explode if nothing is done on round 3. The players rolled 2, 3 and 5. On the third round, the two first players manage to do their turns, before pipe exploded. The third and last player (if able) does their turn after the explosion.
+When a critical situation is initiated, every player rolls a 1d6 for turn order (1 goes first, 6 goes last). If they roll the same, they may choose each round who goes in what order. The GM will also roll similar for any other things and events that will be present during the situation. For instance, it could be a monster attacking. Or it could be a gas pipe that is about to explode from built up pressure. Any initatives from the GM that are the same as the players iniative, are performed after the players. That means if all players roll a 1, they will all be able to do something first every round before the GM acts. A round is done when all present with initiative have done their turn. For example, the gas pipe has initative 4 and will explode if nothing is done on round 3. The players rolled 2, 3 and 5. On the third round, the two first players manage to do their turns, before pipe exploded. The third and last player (if able) does their turn after the explosion.
 
 Those with initatives on the GM side does not need to be shown to the players. So there can be a hidden event ticking away each round without them realizing unless they are observant...
 
@@ -429,3 +450,10 @@ A creature attacks a player with its three escorts. When the creature attacks, i
 | 4 | (Can affect players) Hard-hitting immediate effect |
 | 5 | (Can affect players) Disastrous |
 | 6 | (Can affect players) Catastrophic |
+
+
+## Expedition status
+The expedition itself is a ongoing appartus. Both supplies and man power is limited and will be kept tracked of. The nubmber of days that has passed since the expedition started will also be of importance. Some events could be on a fixed timeline, meaning they will trigger at certain days. For instance, the expedition could have a 150 day deadline until they will all be extracted back home.
+
+## GM guidelines
+The rules are very loose and have very few fixed moments. So it is up to the GM to call for checks, advantages and disadvantages when it fits thematically. Most of the rules are intended to give some semblance of balance and guide the GM of what the outcomes should be. So instead of thinking of as GM, it propably easier to see yourself as the director of a film that has impromptu moments. The expedition journey should have a clear beginning, middle and end to it. So it more similar to a larger "one-shot" than an ongoing free-form campaign that might be the normal aspiration for most other roleplaying games. Envision the expedition as a general idea of a movie, but the manuscript gets rewritten during the shoot.
