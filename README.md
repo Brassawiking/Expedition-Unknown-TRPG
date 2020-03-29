@@ -497,7 +497,7 @@ It is now Angelas turn. She was outside when the attack happens and sees that th
 
 The fire keeps spreading and ignites a barrell that explodes. Steve groups does a pressure check with a -1 as the escort is drowzy from the blowdart. The control value is 2 + 5 -1 -2 = 4, Steve rolls and succeeds. Angela is alone and rolls a able check. She passes just barely. The explosion cuts the power to the main camp lights making it almost pitchblack.
 
-A new round begins and Steve is first to act again. Steve sees a control panel close by and says "Cover me, I can get the lights back on!" The escorts have no objections and follows Steve. Steve starts to fix the lights and GM gives him an anagram and a clue to solve and Steve turns is done.
+A new round begins and Steve is first to act again. Steve sees a control panel close by and says "Cover me, I can get the lights back on!" The escorts have no objections and follows Steve. Steve starts to fix the lights and GM gives him an sudoku to solve and Steve turns is done.
 
 The attacks continues both both players manage to keep it under control.
 
